@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://casadiromavlc.com/wp-content/uploads/2019/08/tipos-de-pastas-y-salsas-cover-400x250.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1 {
+    color: pink;
+}
+img {
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: #2f2c24;
+    padding: 50px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    border: purple solid 2px;
+}
