@@ -16,9 +16,10 @@ img {
     width: 500px;
     background-color: #2f2c24;
     padding: 50px;
+    border: 5px solid black;
 }
+
 #spanId{
     font-size: 18px;
     margin: 50px;
-    border: purple solid 2px;
 }
