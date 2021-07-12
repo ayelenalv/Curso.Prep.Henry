@@ -1,0 +1,4 @@
+For: se usa para repetir una instrucción una cantidad X de veces o hasta que nos devuelve lo que estabamos buscando. Cuando la armamos le decimos desde donde arrancar, cual es la instrucción que tiene que cumplir y cuántas veces
+&&: para que sea verdadera la condición 1 Y la condición 2 tienen que ser ambas verdaderas, si una de las dos no lo es, es falsa.
+||: para que sea verdadera alcanza con que cualquiera de las dos condiciones sea verdadera.
+!: funciona como cuando tenemos el - adelante el matematica que le cambia el signo al resultado. Si la condición es verdadera la convierte en falsa, si es falsa la convierte en verdadera.
