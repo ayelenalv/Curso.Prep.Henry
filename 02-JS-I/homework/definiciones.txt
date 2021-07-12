@@ -1,0 +1,5 @@
+Variables:  es una cajita a la que le damos un nombre donde guardamos un valor para usarlo más tarde. 
+Strings: es un pedacito de texto, una cadena de letras.
+Funciones: es un bloque de instrucciones para resolver un problema o calcular un valor. Para esto le damos una entrada (argumento) que pasa por esas instrucciones y nos devuelve una salida (return).
+If: es una condicion que se tiene que cumplir para que se ejecute el código, si no se cumple avanzamos con la siguiente parte
+Valores booleanos: si nos dan una condición podemos ver si se cumple o no se cumple, es decir si es verdadera o falsa.  
