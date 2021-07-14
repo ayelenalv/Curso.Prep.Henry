@@ -1,0 +1,5 @@
+	Objetos: como las arrays, tambien son contenedores de datos, cada dato tiene un nombre y un valor y al poder buscar por nombre los valores que necesitamos en vez de por orden como en las arrays, no es necesario que esten ordenados 
+]   Propiedades:  las propiedades de un objeto son ese par nombre-valor del que hablabamos, son como las variables comunes pero asociadas al objeto
+	Métodos: es una propiedad cuyo valor es una función
+	Bucle `for…in`: nos sirve para recorrer todas las propiedades del objeto e incluso sus valores
+	Notación de puntos vs notación de corchetes: la notación de puntos es más rápida para acceder a una clave pero también es muy literal, por lo que en caso de que la clave se trate de una variable conviene usar los []
