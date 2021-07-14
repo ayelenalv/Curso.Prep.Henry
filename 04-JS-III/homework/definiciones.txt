@@ -1,0 +1,1 @@
+Arrays: son una lista de datos que estan ordenados y pueden ser de varios tipos por ejemplo numeros, boleanos, strings. Al estar ordenados podemos buscar alguno en especial diciendole en qué posición esta ubicado en la lista.
