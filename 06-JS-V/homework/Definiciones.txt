@@ -1,0 +1,2 @@
+Prototype: es una propiedad de las clases donde se pueden establecer metodos una sola vez que despues puedan ser usados por todos los objetos de esa clase y de esa forma nos ahorramos espacio en la memoria
+Constructors: es método especial para crear un objeto a partir de una clase, le podemos dar los parametros a utilizar y solo puede haber uno por clase.
